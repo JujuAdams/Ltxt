@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LtxtWidth",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LtxtWidth",
+  "parent":{
+    "name":"Draw",
+    "path":"folders/Ltext/Draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

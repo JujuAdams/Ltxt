@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DrawLtxtExt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DrawLtxtExt",
+  "parent":{
+    "name":"Draw",
+    "path":"folders/Ltext/Draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

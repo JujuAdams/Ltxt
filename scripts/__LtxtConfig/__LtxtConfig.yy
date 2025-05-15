@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__LtxtConfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__LtxtConfig",
+  "parent":{
+    "name":"Ltext",
+    "path":"folders/Ltext.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

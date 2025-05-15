@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LtxtTemplatify",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LtxtTemplatify",
+  "parent":{
+    "name":"Ltext",
+    "path":"folders/Ltext.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

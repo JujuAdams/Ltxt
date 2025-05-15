@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__LtextCreateOpFromString",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__LtextCreateOpFromString",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Ltext/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

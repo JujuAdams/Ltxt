@@ -1,2 +1,2 @@
 # Ltxt
-Localization enforcement system??
+Localization text handling system??

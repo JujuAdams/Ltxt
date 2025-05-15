@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Localize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Localize",
+  "parent":{
+    "name":"Ltext",
+    "path":"Ltext.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

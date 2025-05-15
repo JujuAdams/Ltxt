@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__LtextOps",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__LtextOps",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Ltext/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
